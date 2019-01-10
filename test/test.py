@@ -1,9 +1,17 @@
 
+'''
+
+Bitpass Test File 
+Randomly generates 101 passwords of 20 characters long
+
+'''
+
+
 def passwordgen(n):
 
     import string
     import random
-
+ \
     slot = [0, 0, 0, 0, 0]
     
     for x in range(n):
@@ -25,6 +33,7 @@ def passwordgen(n):
 def main():
     
     #n = int(input('Enter total number of characters : '))
+
     for i in range(101):
         passwordgen(20)
         
