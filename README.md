@@ -14,11 +14,11 @@
 ```
 5. Input the size of the required password
 ```
-    Enter total number of characters : 
+    Enter total number of characters : 20
 ```
 6. A password of the required size will be displayed
 ```
-    Enter total number of characters : 
+    n8%%<m%>[9mgI451%|cB
 ```
 
 <br><br>
