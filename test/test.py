@@ -6,12 +6,12 @@ Randomly generates 101 passwords of 20 characters long
 
 '''
 
+import string
+import random
 
 def passwordgen(n):
 
-    import string
-    import random
- \
+    
     slot = [0, 0, 0, 0, 0]
     
     for x in range(n):
