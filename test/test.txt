@@ -1,4 +1,4 @@
-Randomly 20 character passwords : 
+Randomly generated 20 character long passwords : 
 
 
 
