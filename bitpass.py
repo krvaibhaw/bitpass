@@ -10,17 +10,34 @@ of lower and upper characters, digits and symbols.
 '''
 
 
-def passwordgen(n):
+# Importing libraries
 
-    import string
-    import random
+import string
+import random
+
+
+# Bitpass generator function
+
+def bitpass(n):
+
+
+    # Defining slots for each sub section of password
+    # containing ower and upper characters, digits and symbols.
 
     slot = [0, 0, 0, 0, 0]
+
     
     for x in range(n):
+
+        # Randomly assigning slot values
+
         r = random.randint(0,4)
         slot[r] += 1
+
     
+    # Defining which sub section will belong to which slots
+    # with the help of slot index.
+
     lower_letter = random.choices(string.ascii_lowercase, k=slot[0])
     upper_letter = random.choices(string.ascii_uppercase, k=slot[1])
     digits = random.choices(string.digits, k=slot[3])
@@ -36,7 +53,7 @@ def passwordgen(n):
 def main():
     
     n = int(input('Enter total number of characters : '))
-    passwordgen(n)
+    bitpass(n)
         
 if __name__ == "__main__":
     main()
