@@ -42,15 +42,24 @@ def bitpass(n):
     upper_letter = random.choices(string.ascii_uppercase, k=slot[1])
     digits = random.choices(string.digits, k=slot[3])
     symbols = random.choices('!@#$%^&*_+-|/[]}{><?:",.', k=slot[2])
-    symbols2 = random.choices('!@#$%^&*_+-|/[]}{><?:",.', k=slot[4])    
+    symbols2 = random.choices('!@#$%^&*_+-|/[]}{><?:",.', k=slot[4]) 
+
+
+    # Combining the subsections to generate the password   
     
     password = digits + upper_letter  + symbols + lower_letter + symbols2
-    random.shuffle(password)
     
+
+    # Finally suffleing the string to make the password more 
+    # strong and distinct.
+
+    random.shuffle(password)
     print(''.join(password))
 
 
 def main():
+
+    # Taking password length as input from user.
     
     n = int(input('Enter total number of characters : '))
     bitpass(n)
