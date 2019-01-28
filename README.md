@@ -29,4 +29,4 @@ Feel free to follow along the code provided along with mentioned comments for
 ## Contributing
 
 Contributions are welcome!
-<br>Please feel free to submit a Pull Request.\
+<br>Please feel free to submit a Pull Request.
