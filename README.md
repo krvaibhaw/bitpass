@@ -1,5 +1,12 @@
 # Bitpass Password Generator
 
+![](https://img.shields.io/badge/Excitement-High-red)
+![](https://img.shields.io/badge/Maintained-Yes-blue)
+![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
+
+![](https://img.shields.io/github/issues/krvaibhaw/blockchain)
+![](https://img.shields.io/badge/Python-blue)
+
 
 ## Installation
 
@@ -8,15 +15,15 @@
 ```
     $ pip install requirements.txt
 ``` 
-4. Run the program:
+3. Run the program:
 ```
     $ python bitpass.py 
 ```
-5. Input the size of the required password
+4. Input the size of the required password
 ```
     Enter total number of characters : 20
 ```
-6. A password of the required size will be displayed
+5. A password of the required size will be displayed
 ```
     n8%%<m%>[9mgI451%|cB
 ```
