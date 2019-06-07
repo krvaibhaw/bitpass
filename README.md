@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/issues/krvaibhaw/bitpass)
 ![](https://img.shields.io/github/stars/krvaibhaw/bitpass)
 
-![](https://img.shields.io/badge/Contributions-Accepting-pink
+![](https://img.shields.io/badge/Contributions-Accepting-pink)
 ![](https://img.shields.io/github/license/krvaibhaw/bitpass)
 [![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.paypal.com/paypalme/krvaibhaw/100)
 
