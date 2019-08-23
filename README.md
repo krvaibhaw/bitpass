@@ -16,7 +16,7 @@
 
 
 <p align="center">
-<img src="preview/preview.png">
+<img src="preview/previews.png">
 </p>
 
 
