@@ -18,11 +18,11 @@
 ## Installation
 
 1. Make sure [Python 3+](https://www.python.org/downloads/) is installed.
-2. Install requirements  
+2. Clone this repodotory : 
 ```
-    $ pip install requirements.txt
+    $ git clone https://github.com/krvaibhaw/bitpass.git
 ``` 
-2. Install requirements  
+3.  
 ```
     $ pip install requirements.txt
 ``` 
