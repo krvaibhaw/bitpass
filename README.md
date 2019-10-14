@@ -22,9 +22,9 @@
 ```
     $ git clone https://github.com/krvaibhaw/bitpass.git
 ``` 
-3.  
+3.  Change Directory :
 ```
-    $ pip install requirements.txt
+    $ cd bitpass
 ``` 
 2. Install requirements  
 ```
