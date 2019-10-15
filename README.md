@@ -26,7 +26,7 @@
 ```
     $ cd bitpass
 ``` 
-2. Install requirements  
+4. Install requirements  
 ```
     $ pip install requirements.txt
 ``` 
