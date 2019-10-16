@@ -30,7 +30,7 @@
 ```
     $ pip install requirements.txt
 ``` 
-3. Run the program:
+5. Run the program:
 ```
     $ python bitpass.py 
 ```
