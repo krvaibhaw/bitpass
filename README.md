@@ -34,7 +34,7 @@
 ```
     $ python bitpass.py 
 ```
-4. Input the size of the required password
+6. Input the size of the required password
 ```
     Enter total number of characters : 20
 ```
