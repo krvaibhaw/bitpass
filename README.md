@@ -38,7 +38,7 @@
 ```
     Enter total number of characters : 20
 ```
-5. A password of the required size will be displayed
+7. A password of the required size will be displayed
 ```
     n8%%<m%>[9mgI451%|cB
 ```
