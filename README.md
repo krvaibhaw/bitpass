@@ -15,6 +15,11 @@
 ![](https://img.shields.io/badge/Python-blue)
 
 
+A password generator utility which utilizes the slot technique to
+generate strong passwords of required length having combinations
+of lower and upper characters, digits and symbols.
+
+
 ## Installation
 
 1. Make sure [Python 3+](https://www.python.org/downloads/) is installed.
