@@ -14,6 +14,7 @@
 
 ![](https://img.shields.io/badge/Python-blue)
 
+<br>
 
 <p align="center">
 <img src="/preview/preview.png">
